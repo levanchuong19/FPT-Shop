@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/PRJ/assignment_fix/src/java/Controller/HomeControl.java</file>
+            <file>file:/D:/PRJ/assignment_fix/src/java/Models/Account.java</file>
+            <file>file:/D:/PRJ/assignment_fix/src/java/DBUtils/DBContext.java</file>
+            <file>file:/D:/PRJ/assignment_fix/src/java/Controller/LoadControl.java</file>
+            <file>file:/D:/PRJ/assignment_fix/src/java/Controller/FinalizePaymentServlet.java</file>
+            <file>file:/D:/PRJ/assignment_fix/web/View/Menu.jsp</file>
+            <file>file:/D:/PRJ/assignment_fix/src/java/Controller/UDListUser.java</file>
+            <file>file:/D:/PRJ/assignment_fix/src/java/Controller/LoginGoogleServlet.java</file>
+            <file>file:/D:/PRJ/assignment_fix/src/java/Controller/UDInCartServlet.java</file>
+            <file>file:/D:/PRJ/assignment_fix/src/java/Controller/DeleteControl.java</file>
+            <file>file:/D:/PRJ/assignment_fix/src/java/Controller/AddToCartServlet.java</file>
+            <file>file:/D:/PRJ/assignment_fix/src/java/Controller/LoginControl.java</file>
+            <file>file:/D:/PRJ/assignment_fix/src/java/Controller/SearchServlet.java</file>
+            <file>file:/D:/PRJ/assignment_fix/src/java/Controller/ManagerControl.java</file>
+            <file>file:/D:/PRJ/assignment_fix/src/java/Controller/AddControl.java</file>
+            <file>file:/D:/PRJ/assignment_fix/src/java/Controller/CategoryControl.java</file>
+            <file>file:/D:/PRJ/assignment_fix/src/java/Controller/signup.java</file>
+            <file>file:/D:/PRJ/assignment_fix/src/java/Controller/EditControl.java</file>
+            <file>file:/D:/PRJ/assignment_fix/src/java/Controller/DetailControl.java</file>
+            <file>file:/D:/PRJ/assignment_fix/src/java/Controller/LogoutControl.java</file>
+            <file>file:/D:/PRJ/assignment_fix/src/java/Controller/ManageAccountServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
